@@ -19,10 +19,10 @@ In this new iteration of the template, there is a copy of the "GUITemplate" fold
 
 # Graphics Atlas contents (explained)
 
-> Below are a set of categories listing off the names and descriptions of graphic assets in the "~graphics_atlas" folder
-> Please note that certain editors use duplicate files of the same graphic, so take note of how they're labeled in the "labeled" folder.
+Below are a set of categories listing off the names and descriptions of graphic assets in the "~graphics_atlas" folder
+Please note that certain editors use duplicate files of the same graphic, so take note of how they're labeled in the "labeled" folder.
 
-Please note that certain pieces of graphics are removed as they are never used in game. This is just to declutter the assets, what you see is what the game uses now!
+> Please note that certain pieces of graphics are removed as they are never used in game. This is just to declutter the assets, what you see is what the game uses now!
 
 ## Menu Title
 
