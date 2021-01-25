@@ -4,7 +4,7 @@ Download : https://github.com/ZerbieSlug/Zerbie-Interface-Template/releases/tag/
 
 # Zerbie Interface Template : Intro
 
-> DISCLAIMER : This template only changes how the graphics of the User Interface looks. The layout of buttons/borders/backgrounds/etc can only be changed through SporeModderFX's > .spui editor. This template is only meant to change the overall look of the interface, not the layout
+> DISCLAIMER : This template only changes how the graphics of the User Interface looks. The layout of buttons/borders/backgrounds/etc can only be changed through SporeModderFX's .spui editor. This template is only meant to change the overall look of the interface, not the layout
 
 Hello, and thank you for downloading Zerbie's GUI template (Version 4)!
 
