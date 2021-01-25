@@ -109,6 +109,12 @@ The following graphics are buttons/icons used to filter types of creations :
 - 0xD9C9B914
 - 0xD9C9B915
 
+# "Editors_" explained
+
+These "Editors" folders contain images to represent part icons for their respective editors.
+An image batch editor is recommended if these assets are intended to have their colors changed.
+
+To understand how to get these icons animate, refer to this page here : https://github.com/emd4600/SporeModder-FX/wiki/Palette-Categories
 
 
 
