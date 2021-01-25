@@ -1,6 +1,6 @@
 # Download
 
-Download :
+Download : https://github.com/ZerbieSlug/Zerbie-Interface-Template/releases/tag/v4.0
 
 # Zerbie Interface Template : Intro
 
