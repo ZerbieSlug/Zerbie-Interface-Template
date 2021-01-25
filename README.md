@@ -1,3 +1,7 @@
+# Download
+
+Download :
+
 # Zerbie Interface Template : Intro
 
 > DISCLAIMER : This template only changes how the graphics of the User Interface looks. The layout of buttons/borders/backgrounds/etc can only be changed through SporeModderFX's > .spui editor. This template is only meant to change the overall look of the interface, not the layout
@@ -13,7 +17,7 @@ In this new iteration of the template, there is a copy of the "GUITemplate" fold
 
 - GUI template (labeled) only contains "Graphics_Atlas", with all assets having a unique label.
 
-# Zerbie Interface Template : Graphics Atlas contents (explained)
+# Graphics Atlas contents (explained)
 
 > Below are a set of categories listing off the names and descriptions of graphic assets in the "~graphics_atlas" folder
 > Please note that certain editors use duplicate files of the same graphic, so take note of how they're labeled in the "labeled" folder.
